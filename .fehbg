@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/edoardo/86ffb87572d657f335cd7cd828c70de3.jpg' 
